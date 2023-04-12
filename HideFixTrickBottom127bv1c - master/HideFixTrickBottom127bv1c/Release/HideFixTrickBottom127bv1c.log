@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v150\Platforms\Win32\PlatformToolsets\v141_xp\Toolset.targets(39,5): warning MSB8051: Windows XP como opción de destino está en desuso y no se incluirá en las próximas versiones de Visual Studio. Consulte https://go.microsoft.com/fwlink/?linkid=2023588 para obtener más información.
+  MainTestCode.cpp
+  Generando código
+  6 of 17 functions (35.3%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  HideFixTrickBottom127bv1c.vcxproj -> C:\Users\user\Downloads\HideFixTrickBottom127bv1c\Release\HideFixTrickBottom127bv1c.dll
